@@ -4,7 +4,7 @@ A Flask + PostgreSQL/PostGIS backend that answers **functional dissociation** qu
 Neurosynth database: 14,371 studies, 507,891 activation peaks (MNI) and 3,228 abstract terms.
 Built on the course template [spiketren/ns-nano](https://github.com/spiketren/ns-nano).
 
-- **Live service:** `https://<your-app>.onrender.com`
+- **Live service:** <https://ns-nano-r14250002.onrender.com> (Render free tier: the first request after 15 idle minutes takes about a minute)
 - **Code:** [`app.py`](app.py) (the whole backend); data are loaded by [`create_db.py`](create_db.py)
 
 ---
