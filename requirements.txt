@@ -1,4 +1,4 @@
-Flask
-Gunicorn
-SQLAlchemy
-psycopg2-binary
+Flask>=3.0
+Gunicorn>=22.0
+SQLAlchemy>=2.0
+psycopg2-binary>=2.9.10
